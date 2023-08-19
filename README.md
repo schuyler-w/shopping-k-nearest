@@ -1,4 +1,4 @@
-# Shopping
+# Shopping Predictor
 
 ## Usage:
 
